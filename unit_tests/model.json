@@ -1,0 +1,58 @@
+{
+  "model": [
+    {
+      "input": "date_time",
+      "coding_function":"get_time_of_day",
+      "output_width": 50,
+      "data_type": "scalar"
+    },
+    {
+      "input": "date_time",
+      "coding_function":"is_weekend",
+      "output_width": 20,
+      "data_type": "boolean"
+    },
+    {
+      "input": "new_user",
+      "coding_function":"get_boolean",
+      "output_width": 20,
+      "data_type": "boolean"
+    },
+    {
+      "input": "ad_success",
+      "coding_function":"get_scalar",
+      "output_width": 100,
+      "output_overlap": 2,
+      "output_min": 0,
+      "output_max": 10,
+      "data_type": "scalar"
+    },
+    {
+      "input": "ad_fail",
+      "coding_function":"get_scalar",
+      "output_width": 100,
+      "output_overlap": 2,
+      "output_max": 10,
+      "output_min": 0,
+      "data_type": "scalar"
+    },
+    {
+      "input": "two_factor_success",
+      "coding_function":"get_scalar",
+      "output_width": 100,
+      "output_overlap": 2,
+      "output_max": 10,
+      "output_min": 0,
+      "data_type": "scalar"
+    },
+    {
+      "input": "two_factor_fail",
+      "coding_function":"get_scalar",
+      "output_width": 100,
+      "output_overlap": 2,
+      "output_max": 10,
+      "output_min": 0,
+      "data_type": "scalar"
+    }
+  ]
+}

@@ -1,0 +1,1357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6828b77a-7f8f-467c-a0c9-299127793c59" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-438322399">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="DEATHSTAR" value="1" />
+          <entry key="bat" value="1" />
+          <entry key="json" value="2" />
+          <entry key="py" value="42" />
+          <entry key="pyi" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="2" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="42" />
+          <entry key="PythonStub" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="bat" value="1" />
+          <entry key="dummy" value="6" />
+          <entry key="json" value="364" />
+          <entry key="py" value="7358" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="364" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Python" value="7358" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1425433565">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="6" />
+          <entry key="project.open.time.6" value="5" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="bat" value="4" />
+          <entry key="bytes" value="1" />
+          <entry key="checkpoint" value="3" />
+          <entry key="dat" value="6" />
+          <entry key="gitignore" value="1" />
+          <entry key="json" value="17" />
+          <entry key="md" value="1" />
+          <entry key="pbtxt" value="8" />
+          <entry key="png" value="41" />
+          <entry key="py" value="172" />
+          <entry key="txt" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="41" />
+          <entry key="JSON" value="17" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="35" />
+          <entry key="Python" value="165" />
+          <entry key="Scratch" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="113" />
+          <entry key="bat" value="44" />
+          <entry key="checkpoint" value="25" />
+          <entry key="dummy" value="58" />
+          <entry key="json" value="119" />
+          <entry key="py" value="28717" />
+          <entry key="txt" value="1797" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="119" />
+          <entry key="PLAIN_TEXT" value="1924" />
+          <entry key="Python" value="28680" />
+          <entry key="Scratch" value="150" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="seer_inference" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/deep_hebbian/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="257" column="61" selection-start-line="257" selection-start-column="61" selection-end-line="257" selection-end-column="61" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/deep_hebbian/experiments/mnist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="468" column="54" selection-start-line="468" selection-start-column="54" selection-end-line="468" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/deep_hebbian/experiments/predictable.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="307" lean-forward="true" selection-start-line="307" selection-end-line="307" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/deep_hebbian/experiments/data/input_set.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/deep_hebbian/experiments/recruitment_experiments/recruitment.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/deep_hebbian/layers/deep_hebbian_model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Conda3/envs/tf-gpu/Lib/site-packages/pykafka/handlers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="798">
+              <caret line="207" selection-start-line="207" selection-end-line="207" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/deep_hebbian/encoder_model_v2.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/deep_hebbian/deep_hebbian_utils/tensorflow_graph_tools.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1122">
+              <caret line="68" column="41" selection-start-line="68" selection-start-column="41" selection-end-line="68" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>output_sd</find>
+      <find>bool</find>
+      <find>OVERLAP_DIST</find>
+      <find>process_sdr_stats</find>
+      <find>similarity</find>
+      <find>session_out_topic</find>
+      <find>get_clusters</find>
+      <find>get_sdrs</find>
+      <find>train_recruitment_layer</find>
+      <find>cluster_output</find>
+      <find>merged</find>
+      <find>parse</find>
+      <find>id_generator</find>
+      <find>client_code</find>
+      <find>export_model</find>
+      <find>batch_size</find>
+      <find>geohash</find>
+      <find>locations</find>
+      <find>export</find>
+      <find>batch</find>
+      <find>out</find>
+      <find>GRAPH_NAME</find>
+      <find>ad_session_out_2</find>
+      <find>see</find>
+      <find>seer_main</find>
+      <find>Seer</find>
+      <find>is_valid_message</find>
+      <find>seer</find>
+      <find>secur</find>
+      <find>securenvoy</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>DS_AD_SESSION_OUT_3</replace>
+      <replace>kirosoft</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test_onehot_get_date.py" />
+        <option value="$PROJECT_DIR$/model.json" />
+        <option value="$PROJECT_DIR$/build_test_data.py" />
+        <option value="$PROJECT_DIR$/unit_tests/test_input_model.py" />
+        <option value="$PROJECT_DIR$/socker_server.py" />
+        <option value="$PROJECT_DIR$/SimpSOM/SomNode.py" />
+        <option value="$PROJECT_DIR$/SimpSOM/SomNet.py" />
+        <option value="$PROJECT_DIR$/SimpSOM/__init__.py" />
+        <option value="$PROJECT_DIR$/SimpSOM/somnode.py" />
+        <option value="$PROJECT_DIR$/SimpSOM/hexagons.py" />
+        <option value="$PROJECT_DIR$/SimpSOM/densityPeak.py" />
+        <option value="$PROJECT_DIR$/SimpSOM/somnet.py" />
+        <option value="$PROJECT_DIR$/onehot.py" />
+        <option value="$PROJECT_DIR$/session_model.json" />
+        <option value="$PROJECT_DIR$/layers/RecruitmentLayer.py" />
+        <option value="$PROJECT_DIR$/layers/__init__.py" />
+        <option value="$PROJECT_DIR$/dbscan.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+        <option value="$PROJECT_DIR$/sdr1.py" />
+        <option value="$PROJECT_DIR$/cluster_sdrs.py" />
+        <option value="$PROJECT_DIR$/predictable.py" />
+        <option value="$PROJECT_DIR$/recruitment.py" />
+        <option value="$PROJECT_DIR$/board.bat" />
+        <option value="$PROJECT_DIR$/layers/recruitment_layer.py" />
+        <option value="$PROJECT_DIR$/mnist.py" />
+        <option value="$PROJECT_DIR$/seer_model.py" />
+        <option value="$PROJECT_DIR$/tensorflow_graph_tools.py" />
+        <option value="$PROJECT_DIR$/message_process_utils.py" />
+        <option value="$USER_HOME$/Conda3/envs/tf-gpu/Lib/site-packages/Geohash/__init__.py" />
+        <option value="$PROJECT_DIR$/layers/seer_model.py" />
+        <option value="$PROJECT_DIR$/inputmodel.py" />
+        <option value="$PROJECT_DIR$/util.py" />
+        <option value="$PROJECT_DIR$/layers/layer.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/production_model_v1/checkpoint" />
+        <option value="$PROJECT_DIR$/seer_utils/tensorflow_graph_tools.py" />
+        <option value="$PROJECT_DIR$/layers/spatial_pooler.py" />
+        <option value="$PROJECT_DIR$/layers/recruitment_cluster.py" />
+        <option value="$PROJECT_DIR$/seer_utils/onehot.py" />
+        <option value="$PROJECT_DIR$/seer_encoder_model_v2.json" />
+        <option value="$PROJECT_DIR$/seer_utils/inputmodel.py" />
+        <option value="$PROJECT_DIR$/predictable_geo.py" />
+        <option value="$PROJECT_DIR$/grafana_dashboard/seer_main.json" />
+        <option value="$PROJECT_DIR$/grafana_dashboard/seer_hatteland.json" />
+        <option value="$PROJECT_DIR$/train.py" />
+        <option value="$USER_HOME$/deep_hebbian/layers/deep_hebbian_model.py" />
+        <option value="$USER_HOME$/deep_hebbian/train.py" />
+        <option value="$USER_HOME$/deep_hebbian/experiments/recruitment_experiments/recruitment.py" />
+        <option value="$USER_HOME$/deep_hebbian/experiments/mnist.py" />
+        <option value="$USER_HOME$/deep_hebbian/experiments/predictable.py" />
+        <option value="$USER_HOME$/deep_hebbian/experiments/data/input_set.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2" />
+    <option name="width" value="960" />
+    <option name="height" value="540" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="deep_hebbian" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deep_hebbian" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deep_hebbian" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deep_hebbian" type="462c0819:PsiDirectoryNode" />
+              <item name="experiments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deep_hebbian" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deep_hebbian" type="462c0819:PsiDirectoryNode" />
+              <item name="experiments" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deep_hebbian" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deep_hebbian" type="462c0819:PsiDirectoryNode" />
+              <item name="layers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deep_hebbian" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deep_hebbian" type="462c0819:PsiDirectoryNode" />
+              <item name="unit_tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$USER_HOME$/sparsity" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mark\seer_inference\experiments\data" />
+      <recent name="C:\Users\mark\seer_inference\production_model_v1" />
+      <recent name="C:\Users\mark\seer_inference\experiments" />
+      <recent name="C:\Users\mark\seer_inference\clustering_experiments" />
+      <recent name="C:\Users\mark\seer_inference\seer_utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mark\seer_inference" />
+      <recent name="C:\Users\mark\seer_inference\production_model_v1" />
+      <recent name="C:\Users\mark\seer_inference\out" />
+      <recent name="C:\Users\mark\seer_inference\layers" />
+      <recent name="C:\Users\mark\seer_inference\som_images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.train">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="deep_hebbian" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mnist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="deep_hebbian" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\mark\seer_inference\clustering_experiments\mnist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predictable" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="deep_hebbian" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\mark\seer_inference\clustering_experiments\predictable.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predictable_geo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="deep_hebbian" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predictable_geo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="recruitment" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="deep_hebbian" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\mark\seer_inference\recruitment_experiments\recruitment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="deep_hebbian" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="deep_hebbian" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="deep_hebbian" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="deep_hebbian" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <module name="deep_hebbian" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="deep_hebbian" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="deep_hebbian" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.mnist" />
+      <item itemvalue="Python.recruitment" />
+      <item itemvalue="Python.predictable" />
+      <item itemvalue="Python.predictable_geo" />
+      <item itemvalue="Python.train" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.predictable_geo" />
+        <item itemvalue="Python.mnist" />
+        <item itemvalue="Python.recruitment" />
+        <item itemvalue="Python.predictable" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6828b77a-7f8f-467c-a0c9-299127793c59" name="Default Changelist" comment="" />
+      <created>1544436548958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544436548958</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add initial output layer&#10;Extend JSON input model&#10;Filter input records to check for auth messages only">
+      <created>1546973613182</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1546973613182</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add initial SOM">
+      <created>1547145028607</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547145028607</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Refactor of SOM code to use binary only measures (hamming distance calcs)&#10;Set initial training hyper parameters&#10;Refactor SOM code into more classes">
+      <created>1547225540084</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1547225540084</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Display SOM diff plot&#10;Display cluster plot">
+      <created>1547460822476</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1547460822476</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add load/save function for HTM tensorflow model&#10;Add load/save function for SOM model">
+      <created>1547480285837</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1547480285837</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Refactor&#10;Extend activation pools model&#10;Add basic anomaly detection">
+      <created>1547553188581</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1547553188581</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Implement freeze graph save to port model to edge device inference&#10;Implement load graph to restore graph/weights">
+      <created>1547821304190</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1547821304190</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Initial implementation of recruitment layer using tensorflow eager mode">
+      <created>1548668197881</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1548668197881</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Initial prediction output">
+      <created>1548687136141</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1548687136141</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add separate class (predictable) to run a version of all three levels (pre-trained) and output the result to a new kafka topic">
+      <created>1548791189050</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1548791189050</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Initial running but untested recruitment layer">
+      <created>1548944981508</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1548944981508</updated>
+    </task>
+    <task id="LOCAL-00012" summary="initial running batch training for the recruitment layer">
+      <created>1548952585680</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1548952585680</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Running with recruitment cluster learning (initial)">
+      <created>1549018613239</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1549018613239</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fully running recruitment layer (non-batch mode)">
+      <created>1549463714403</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1549463714403</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Add additional unit tests and comparisons">
+      <created>1551169231059</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1551169231059</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added train.py to run all three layers in graph mode. Supports both train mode and inference mode from Boolean and outputs graph showing data in all three layers simultaneously">
+      <created>1551909339833</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1551909339833</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added train.py to run all three layers in graph mode. Supports both train mode and inference mode from Boolean and outputs graph showing data in all three layers simultaneously">
+      <created>1551909356341</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1551909356341</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Code tidy">
+      <created>1551910661188</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1551910661188</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Tidy up the full train/inference program which now reads from AD_SESSION_GEO to AD_SESSION_OUT">
+      <created>1551989706259</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1551989706259</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Transform geo point output to be compatible with ElasticSearch formats for the map widget">
+      <created>1552577710720</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1552577710721</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Update the dashboard json">
+      <created>1553009708394</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1553009708394</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Code tidy">
+      <created>1553165866727</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1553165866728</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Add some extra comments to recruitment_cluster algorithm">
+      <created>1553168565071</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1553168565071</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Improve the model export code to output in clearer data structure&#10;Remove old data directories">
+      <created>1553181148419</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1553181148419</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Improve input model versioning&#10;Add some more comments">
+      <created>1553245426358</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1553245426358</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Hatteland changes">
+      <created>1553878901036</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1553878901036</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_input_model_TestInputModel_test_get_model_params - 2018.12.18 at 11h 45m 48s.xml">
+      <configuration name="Unittests for test_input_model.TestInputModel.test_get_model_params" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_input_model_TestInputModel_test_get_model_params - 2018.12.18 at 11h 46m 03s.xml">
+      <configuration name="Unittests for test_input_model.TestInputModel.test_get_model_params" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_input_model_TestInputModel_test_get_model_params - 2018.12.18 at 11h 47m 19s.xml">
+      <configuration name="Unittests for test_input_model.TestInputModel.test_get_model_params" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_input_model_TestInputModel_test_get_model_params - 2018.12.18 at 11h 50m 05s.xml">
+      <configuration name="Unittests for test_input_model.TestInputModel.test_get_model_params" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_input_model_TestInputModel_test_get_model_params - 2018.12.18 at 11h 51m 31s.xml">
+      <configuration name="Unittests for test_input_model.TestInputModel.test_get_model_params" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_input_model_TestInputModel_test_get_model_params - 2018.12.18 at 11h 56m 23s.xml">
+      <configuration name="Unittests for test_input_model.TestInputModel.test_get_model_params" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_input_model_TestInputModel_test_get_model_params - 2018.12.18 at 11h 57m 00s.xml">
+      <configuration name="Unittests for test_input_model.TestInputModel.test_get_model_params" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_input_model_TestInputModel_test_get_model_params - 2018.12.18 at 11h 57m 38s.xml">
+      <configuration name="Unittests for test_input_model.TestInputModel.test_get_model_params" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_input_model_TestInputModel_test_get_model_params - 2018.12.18 at 11h 58m 53s.xml">
+      <configuration name="Unittests for test_input_model.TestInputModel.test_get_model_params" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_input_model_TestInputModel_test_get_model_params - 2018.12.18 at 14h 21m 20s.xml">
+      <configuration name="Unittests for test_input_model.TestInputModel.test_get_model_params" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1513" height="1013" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49832776" visible="true" weight="0.2085308" />
+      <window_info id="Structure" order="1" sideWeight="0.50167227" side_tool="true" weight="0.16385669" />
+      <window_info id="Favorites" order="2" sideWeight="0.5005192" side_tool="true" weight="0.16385669" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3946002" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8319284" visible="true" weight="0.403946" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.5025961" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.16807166" side_tool="true" weight="0.6085151" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32917964" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16385669" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37902388" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35721704" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2793354" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add initial output layer&#10;Extend JSON input model&#10;Filter input records to check for auth messages only" />
+    <MESSAGE value="Add initial SOM" />
+    <MESSAGE value="Refactor of SOM code to use binary only measures (hamming distance calcs)&#10;Set initial training hyper parameters&#10;Refactor SOM code into more classes" />
+    <MESSAGE value="Display SOM diff plot&#10;Display cluster plot" />
+    <MESSAGE value="Add load/save function for HTM tensorflow model&#10;Add load/save function for SOM model" />
+    <MESSAGE value="Refactor&#10;Extend activation pools model&#10;Add basic anomaly detection" />
+    <MESSAGE value="Implement freeze graph save to port model to edge device inference&#10;Implement load graph to restore graph/weights" />
+    <MESSAGE value="Initial implementation of recruitment layer using tensorflow eager mode" />
+    <MESSAGE value="Initial prediction output" />
+    <MESSAGE value="Add separate class (predictable) to run a version of all three levels (pre-trained) and output the result to a new kafka topic" />
+    <MESSAGE value="Initial running but untested recruitment layer" />
+    <MESSAGE value="initial running batch training for the recruitment layer" />
+    <MESSAGE value="Running with recruitment cluster learning (initial)" />
+    <MESSAGE value="Fully running recruitment layer (non-batch mode)" />
+    <MESSAGE value="Add additional unit tests and comparisons" />
+    <MESSAGE value="Added train.py to run all three layers in graph mode. Supports both train mode and inference mode from Boolean and outputs graph showing data in all three layers simultaneously" />
+    <MESSAGE value="Tidy up the full train/inference program which now reads from AD_SESSION_GEO to AD_SESSION_OUT" />
+    <MESSAGE value="Transform geo point output to be compatible with ElasticSearch formats for the map widget" />
+    <MESSAGE value="Update the dashboard json" />
+    <MESSAGE value="Code tidy" />
+    <MESSAGE value="Add some extra comments to recruitment_cluster algorithm" />
+    <MESSAGE value="Improve the model export code to output in clearer data structure&#10;Remove old data directories" />
+    <MESSAGE value="Improve input model versioning&#10;Add some more comments" />
+    <MESSAGE value="Hatteland changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hatteland changes" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/deep_hebbian/unit_tests/test_onehot_get_date.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/deep_hebbian/experiments/SimpSOM/densityPeak.py</url>
+          <line>408</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/deep_hebbian/experiments/SimpSOM/__init__.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/deep_hebbian/experiments/mnist.py</url>
+          <line>605</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/deep_hebbian/experiments/mnist.py</url>
+          <line>559</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>all_data[f][&quot;GEO&quot;]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>all_data[f]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>all_data[f][&quot;GEO&quot;][ip]['location']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cluster_activity,np.amax(cluster_activity)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cluster_activity,np.amin(cluster_activity)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>current_cluster_output,np.sum(current_cluster_output,axis=2).flatten()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>current_cluster_output,np.sum(current_cluster_output,axis=2)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>current_cluster_output,np.sum(current_cluster_output,axis=1)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>np.sum(current_cluster_output,axis=1)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>JSON.parse(all_data[0].decode('utf-8'))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>all_data[0].decode('utf-8')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>json.parse(all_data[0].decode('utf-8'))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>all_data[0].decode('utf-8')[&quot;EVENT_COUNT&quot;]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>all_data[0].encode('utf-8')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>all_data[0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>consumer</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>consumer.seek_to_beginning((0))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>consumer.seek_to_beginning(0)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Conda3/envs/py37/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Conda3/envs/py37/Lib/json/encoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="179" selection-start-line="179" selection-end-line="179" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Conda3/envs/py37/Lib/site-packages/tensorflow/python/client/session.py" />
+    <entry file="file://$USER_HOME$/Conda3/envs/py37/Lib/site-packages/tensorflow/python/tools/freeze_graph.py" />
+    <entry file="file://$USER_HOME$/Conda3/envs/py37/Lib/site-packages/google/protobuf/text_encoding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/deep_hebbian/experiments/cluster_sdrs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="83" column="51" selection-start-line="83" selection-start-column="51" selection-end-line="83" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Conda3/envs/tf-gpu/Lib/site-packages/tensorflow/python/tools/freeze_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="291" column="34" selection-start-line="291" selection-start-column="17" selection-end-line="291" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Conda3/envs/tf-gpu/Lib/site-packages/tensorflow/python/framework/graph_util_impl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Conda3/envs/tf-gpu/Lib/site-packages/Geohash/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htm-model-save/checkpoint" />
+    <entry file="file://$USER_HOME$/deep_hebbian/experiments/dbscan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build_test_data.py" />
+    <entry file="file://$USER_HOME$/deep_hebbian/experiments/sdr1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-652">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socker_server.py" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/util.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$USER_HOME$/deep_hebbian/unit_tests/model.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="50" column="24" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/deep_hebbian/unit_tests/test_onehot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Conda3/envs/tf-gpu/Lib/site-packages/google/protobuf/text_format.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-194">
+          <caret line="1300" column="35" selection-start-line="1300" selection-start-column="35" selection-end-line="1300" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/deep_hebbian/production_model_v1/seer_graph.pbtxt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-867" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/deep_hebbian/production_model_v1/checkpoint">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+    <entry file="file://$USER_HOME$/deep_hebbian/layers/layer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/deep_hebbian/layers/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/deep_hebbian/layers/recruitment_layer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/deep_hebbian/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/deep_hebbian/deep_hebbian_utils/inputmodel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/deep_hebbian/layers/recruitment_cluster.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/deep_hebbian/board.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/deep_hebbian/deep_hebbian_utils/onehot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="97" column="27" lean-forward="true" selection-start-line="97" selection-start-column="27" selection-end-line="97" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Conda3/envs/tf-gpu/Lib/site-packages/tensorflow/python/client/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23511">
+          <caret line="1406" selection-start-line="1406" selection-end-line="1406" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/deep_hebbian/layers/spatial_pooler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="80" column="50" selection-start-line="80" selection-start-column="50" selection-end-line="80" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Conda3/envs/tf-gpu/Lib/site-packages/Geohash/geohash.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/deep_hebbian/grafana_dashboard/seer_main.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/deep_hebbian/grafana_dashboard/seer_hatteland.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24004">
+          <caret line="1412" column="21" selection-start-line="1412" selection-start-column="21" selection-end-line="1412" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Conda3/envs/tf-gpu/Lib/site-packages/pykafka/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3774">
+          <caret line="222" selection-start-line="222" selection-end-line="222" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/deep_hebbian/deep_hebbian_utils/message_process_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/deep_hebbian/deep_hebbian_utils/tensorflow_graph_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="68" column="41" selection-start-line="68" selection-start-column="41" selection-end-line="68" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/deep_hebbian/layers/deep_hebbian_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/deep_hebbian/predictable_geo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Conda3/envs/tf-gpu/Lib/site-packages/pykafka/handlers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="207" selection-start-line="207" selection-end-line="207" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/deep_hebbian/seer_encoder_model_v1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/deep_hebbian/encoder_model_v2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/deep_hebbian/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="257" column="61" selection-start-line="257" selection-start-column="61" selection-end-line="257" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/deep_hebbian/experiments/recruitment_experiments/recruitment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/deep_hebbian/experiments/mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="468" column="54" selection-start-line="468" selection-start-column="54" selection-end-line="468" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/deep_hebbian/experiments/data/input_set.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/deep_hebbian/experiments/data/input_set.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53159">
+          <caret column="459755" selection-start-column="459755" selection-end-column="459755" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/deep_hebbian/experiments/predictable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="307" lean-forward="true" selection-start-line="307" selection-end-line="307" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,35 @@
+{
+  "model": [
+    {
+      "input": "W_START",
+      "coding_function":"get_time_of_day_from_filetime",
+      "output_width": 25,
+      "data_type": "scalar"
+    },
+    {
+      "input": "SUCCESS_EVENT_COUNT",
+      "coding_function":"get_scalar",
+      "output_width": 50,
+      "data_type": "scalar",
+      "output_min": 0,
+      "output_max": 10
+    },
+    {
+      "input": "FAIL_EVENT_COUNT",
+      "coding_function":"get_scalar",
+      "output_width": 50,
+      "data_type": "scalar",
+      "output_min": 0,
+      "output_max": 10
+    },
+    {
+      "input": "EVENT_DURATION",
+      "coding_function":"get_scalar",
+      "output_width": 50,
+      "data_type": "scalar",
+      "output_min": 0,
+      "output_max": 100000,
+      "clamp": false
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+numpy
+matplotlib
+Geohash
+pykafka
+requests
+tensorflow
+keras
+tqdm
